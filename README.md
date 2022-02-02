@@ -1,2 +1,2 @@
-# pythonimageeditor
-we can change  images character  using python program
+# image_editor
+This python project can change image brightness and other stuffs
